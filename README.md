@@ -1,4 +1,4 @@
-![I am selina-islam](https://github.com/selina-islam/selina-islam/blob/main/code.png)
+![I am selina-islam]()
 
 <h1 align="center">Hi 👋, I'm Selina Islam)</h1>
 <h3 align="center">Programmer</h3>
@@ -19,7 +19,7 @@ Skills:  BOOTSTRAP / REACT / JS / HTML / CSS
 - 👨‍💻 All of my projects are available at [https://github.com/selina-islam](https://github.com/selina-islam)
 
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, TailwindCSS**
 
 - 📫 How to reach me **digitalselina@gmail.com**
 
