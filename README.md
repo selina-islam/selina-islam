@@ -1,4 +1,4 @@
-![I am selina-islam](![image](https://github.com/user-attachments/assets/3a902262-a803-4bd8-a1d5-3fb0b72014d8)
+![I am selina-islam](https://github.com/user-attachments/assets/3a902262-a803-4bd8-a1d5-3fb0b72014d8)
 )
 
 <h1 align="center">Hi 👋, I'm Selina Islam)</h1>
