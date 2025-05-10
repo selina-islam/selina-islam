@@ -1,20 +1,20 @@
 ![I am selina-islam](https://github.com/user-attachments/assets/48490b3a-12fc-4daa-a62e-79f175d28223)
-)
+
 
 
 <h1 align="center">Hi 👋, I'm Selina Islam</h1>
-<h3 align="center">Programmer</h3>
+<h3 align="center">Front-End Developer</h3>
 
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=selina-islam&color=red)
 
-Skills:  BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:  TAILWINDCSS / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently student on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭Currently learning advanced React and working on personal projects to improve my frontend development skills.(https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning JS, NEXT.JS, REACT.JS
 
@@ -29,7 +29,7 @@ Skills:  BOOTSTRAP / REACT / JS / HTML / CSS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com//selinaislam202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://fb.com//selinaislam202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="selina" height="30" width="40" /></a>
 <!--<a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/selina-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selina-islam" height="30" width="40" /></a>
 <a href="https://codepen.io/selina-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="selina-islam" height="30" width="40" /></a>
