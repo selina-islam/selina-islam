@@ -14,7 +14,7 @@ Skills:  TAILWINDCSS / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭Currently learning advanced React and working on personal projects to improve my frontend development skills.(https://www.hablu-programmer.com/)
+- 🔭 Currently learning advanced React and working on personal projects to improve my frontend development skills.
 
 - 🌱 I’m currently learning JS, NEXT.JS, REACT.JS
 
